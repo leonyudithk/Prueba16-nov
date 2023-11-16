@@ -1,2 +1,2 @@
 console.log("información")
-let nombre = document.querySelector(#nombre)
+let nombre = document.querySelector("#nombre")
